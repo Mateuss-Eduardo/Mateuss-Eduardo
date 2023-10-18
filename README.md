@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @Mateuss-Eduardo
-- 👀 Sou interessado em programação. Minha lang preferida é JS. Programação web é meu forte!
-- 🌱 Atualmente estou estudando JS
-- 💞️ Divido experiências e estou disposto a ouvir-lo
+- 👀 Sou apaixonado por programação. Minha linguagem preferida é JS(JavaScript). Programação web, é o meu forte!
+- 🌱 Atualmente estou estudando JS, Html, Js
+- 💞️ Divido experiências. Não tenho medo de errar e estou sempre procurando evoluir.
 - 📫 Entre em contato com migo através da minha rede social Instagram - @coquinho.hip
 
 <!---
